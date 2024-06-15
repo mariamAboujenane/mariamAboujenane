@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Aboujenane</h1>
+![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/mariamAboujenane/mariamAboujenane/assets/106840796/1e2d5278-5bce-4f2b-aba8-ebd348ccaad5)
 <h3 align="center">An Artificial Intelligence student at Euromed University of Fez</h3>
 
 <h3 align="left">Connect with me:</h3>
